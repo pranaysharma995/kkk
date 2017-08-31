@@ -1,0 +1,30 @@
+#nav{
+            background-color: #d3d3d3;
+        }
+        .col-md-6{
+            background-color: #d3d3d3;
+            border-radius: 10px;
+            margin-top: 5em;
+            padding-top: 5em;
+            padding-bottom: 5em;
+            padding-left: 1em;
+            padding-right: 1em;
+        }
+        .choice{
+            float: left;
+            background-color: black;
+            border-radius: 2px;
+            padding-left: 4em;
+        padding-right: 4em;
+        padding-top: 10px;
+        padding-bottom: 10px;
+            color: white;
+            margin-left: 1em;
+            margin-top: 1em;
+            line-height: 1.3em;
+            font-size: 1.1em;
+            
+        }
+        .choice:hover{
+            transform: scale(1.05);
+        }
